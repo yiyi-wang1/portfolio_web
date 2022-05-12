@@ -47,7 +47,7 @@ const Timeline = () => {
     <SectionDivider />
     <SectionTitle main >About Me</SectionTitle>
     <SectionText>
-      My information.
+      My Software Developer Journey.
     </SectionText>
     <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
       <>
@@ -92,7 +92,7 @@ const Timeline = () => {
                         />
                       </linearGradient>
                     </defs>
-                  </CarouselItemImg>
+              </CarouselItemImg>
           </CarouselItemTitle>
           <CarouselItemText>{item.text}</CarouselItemText>
           </CarouselItem>

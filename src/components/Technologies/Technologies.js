@@ -8,21 +8,23 @@ const Technologies = () =>  (
   <SectionDivider />
   <SectionTitle main >Technologies</SectionTitle>
   <SectionText>
-    TODO: tech list
+    I've worked with a range of technologies in the web development world. 
+    From Front-end to Back-end. Followings are my current tech stack, and I'm keeping updating and expending them.
   </SectionText>
   <List>
     <ListItem>
-      <DiReact size ="3rem"/>
+      <DiReact size ="3rem" color ="rgba(5, 53, 120, 0.8)"/>
       <ListContainer>
         <ListTitle>Front-End</ListTitle>
         <ListParagraph>
           React.js <br/>
-
+          JQuery <br/>
+          HTML/CSS <br/>
         </ListParagraph>
       </ListContainer>
     </ListItem>
     <ListItem>
-      <DiFirebase size ="3rem"/>
+      <DiFirebase size ="3rem" color ="rgba(5, 53, 120, 0.8)"/>
       <ListContainer>
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
@@ -34,7 +36,7 @@ const Technologies = () =>  (
       </ListContainer>
     </ListItem>
     <ListItem>
-      <DiJava size ="3rem"/>
+      <DiJava size ="3rem" color ="rgba(5, 53, 120, 0.8)"/>
       <ListContainer>
         <ListTitle>Languages</ListTitle>
         <ListParagraph>

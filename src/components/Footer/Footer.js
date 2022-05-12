@@ -19,7 +19,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Test</Slogan>
+          <Slogan>@Yiyi Wang 2022</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href = "https://github.com/yiyi-wang1">
