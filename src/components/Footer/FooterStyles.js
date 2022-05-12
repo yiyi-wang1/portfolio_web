@@ -24,7 +24,7 @@ export const LinkItem = styled.a`
 	left: 0;
 
 	&:hover {
-		color: #fff;
+		color: rgba(105, 153, 220, 0.8);
 		left: 6px;
 	}
 
