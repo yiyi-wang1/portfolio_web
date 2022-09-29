@@ -29,6 +29,7 @@ const Technologies = () =>  (
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
           Node.js <br />
+          Express.js <br />
           Ruby on Rails <br/>
           SQL <br/>
           NoSQL <br />
@@ -41,9 +42,12 @@ const Technologies = () =>  (
         <ListTitle>Languages</ListTitle>
         <ListParagraph>
           Jave <br/>
-          JaveScript <br/>
+          JaveScript <br />
+          Ruby<br />  
           C <br/>
-          C++ <br/>
+          C++ <br />
+          Python <br />
+          R <br />
         </ListParagraph>
       </ListContainer>
     </ListItem>
