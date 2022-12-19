@@ -13,7 +13,7 @@ export const projects = [
     description:"Delish is a homemade meal web app for home cooks to create meals and customers to search and order meals - collaborative project, a team of 5.",
     image: '/images/homemeal.png',
     tags: ['Ruby on Rails', 'ERB', 'Bootstrap', 'PostgreSQL'],
-    live: 'https://homemade-meal-app.herokuapp.com/',
+    live: 'https://www.youtube.com/watch?v=sMqee24ct54',
     code: 'https://github.com/yiyi-wang1/Homemade_Meals_APP',
     id: 1,
   },
